@@ -1,6 +1,7 @@
 # Guido van Rossum <guido@python.org>
 import random
 
+
 def step1():
     print(
         'Утка-маляр 🦆 решила выпить зайти в бар. '
